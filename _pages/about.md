@@ -21,7 +21,7 @@ I am an undergraduate student of [School of Intelligence Science and Technology,
 
 Currently, I work as a research intern at MMLab@The Chinese University of Hong Kong with [Prof. Xiangyu Yue](https://xyue.io/).
 
-My research interest includes computer vision and Multimodal Learning. 
+My research interest includes Computer Vision and Multimodal Learning. 
 
 
 # 🔥 News
