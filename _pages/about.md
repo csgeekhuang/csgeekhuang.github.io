@@ -42,7 +42,7 @@ Xuhong Huang<sup>*</sup>, Shiqi Liu<sup>*</sup>, Kai Zhang<sup>†</sup>=n, Ying
 reverse convolution operator as a first-step exploration to
 effectively reverse the depthwise convolution by formulat-
 ing and solving a regularized least-squares optimization
-problem
+problem.
 </div>
 </div>
 
