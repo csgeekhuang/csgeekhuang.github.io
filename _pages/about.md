@@ -38,10 +38,9 @@ My research interest includes computer vision and Multimodal Learning.
 Xuhong Huang<sup>*</sup>, Shiqi Liu<sup>*</sup>, Kai Zhang<sup>†</sup>, Ying Tai, Jian Yang, Hui Zeng, Lei Zhang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
-- we propose a novel depthwise
+- We propose a novel depthwise
 reverse convolution operator as a first-step exploration to
-effectively reverse the depthwise convolution by formulat-
-ing and solving a regularized least-squares optimization
+effectively reverse the depthwise convolution by formulating and solving a regularized least-squares optimization
 problem.
 </div>
 </div>
