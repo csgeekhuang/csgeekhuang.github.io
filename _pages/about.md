@@ -30,7 +30,7 @@ My research interest includes computer vision and Multimodal Learning.
 
 # 📝 Publications 
 
-<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='1751533534899.png' alt="sym" width="100%"></div></div>
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/1751533534899.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
 [Reverse Convolution and Its application to Image Restoration](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0RycFIIAAAAJ&sortby=pubdate&citation_for_view=0RycFIIAAAAJ:nU66GSXDKhoC)
