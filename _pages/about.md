@@ -35,7 +35,7 @@ My research interest includes computer vision and Multimodal Learning.
 
 [Reverse Convolution and Its application to Image Restoration](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0RycFIIAAAAJ&sortby=pubdate&citation_for_view=0RycFIIAAAAJ:nU66GSXDKhoC)
 
-Xuhong Huang<sup>*</sup>, Shiqi Liu<sup>*</sup>, Kai Zhang<sup>†</sup>=n, Ying Tai, Jian Yang, Hui Zeng, Lei Zhang
+Xuhong Huang<sup>*</sup>, Shiqi Liu<sup>*</sup>, Kai Zhang<sup>†</sup>, Ying Tai, Jian Yang, Hui Zeng, Lei Zhang
 
 [**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - we propose a novel depthwise
