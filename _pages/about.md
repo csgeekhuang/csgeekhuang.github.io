@@ -53,7 +53,7 @@ problem.
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
-- *2022.09 - Now*, *B.E.* Nanjing University, School of Intelligence Science and Technology. 
+- *2022.09 - Now*, *B.S.* Nanjing University, School of Intelligence Science and Technology. 
 <!-- - *2015.09 - 2019.06*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 <!-- # 💬 Invited Talks
