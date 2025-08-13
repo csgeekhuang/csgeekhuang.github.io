@@ -23,6 +23,8 @@ Currently, I work as a research intern at MMLab@The Chinese University of Hong K
 
 My research interest includes Computer Vision and Multimodal Learning. 
 
+<span style="color:red">I am looking for a Ph.D. position starting in 2026 Fall. Please feel free to reach out!</span>
+
 
 # 🔥 News
 - *2025.06*: &nbsp;🎉🎉 Reverse Convolution and Its application to Image Restoration is accepted by ICCV2025.
