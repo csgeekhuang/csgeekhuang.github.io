@@ -37,11 +37,11 @@ Email: xuhonghuang@smail.nju.edu.cn
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/1751533534899.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
 
-[Reverse Convolution and Its application to Image Restoration](https://scholar.google.com.hk/citations?view_op=view_citation&hl=zh-CN&user=0RycFIIAAAAJ&sortby=pubdate&citation_for_view=0RycFIIAAAAJ:nU66GSXDKhoC)
+[Reverse Convolution and Its application to Image Restoration](https://arxiv.org/pdf/2508.09824)
 
 Xuhong Huang<sup>*</sup>, Shiqi Liu<sup>*</sup>, Kai Zhang<sup>†</sup>, Ying Tai, Jian Yang, Hui Zeng, Lei Zhang
 
-[**Project**](https://scholar.google.com/citations?view_op=view_citation&hl=zh-CN&user=DhtAFkwAAAAJ&citation_for_view=DhtAFkwAAAAJ:ALROH1vI_8AC) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
+[**Project**](https://github.com/cszn/ConverseNet) <strong><span class='show_paper_citations' data='DhtAFkwAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a novel depthwise
 reverse convolution operator as a first-step exploration to
 effectively reverse the depthwise convolution by formulating and solving a regularized least-squares optimization
