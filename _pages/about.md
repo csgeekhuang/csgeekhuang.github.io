@@ -19,8 +19,6 @@ redirect_from:
 
 I am an undergraduate student of [School of Intelligence Science and Technology, Nanjing University](https://is.nju.edu.cn/) where I have the privilege of conducting research under the supervision of [Prof. Kai Zhang](https://cszn.github.io/).
 
-Currently, I work as a research intern at MMLab@The Chinese University of Hong Kong with [Prof. Xiangyu Yue](https://xyue.io/).
-
 My research interest includes Computer Vision and Multimodal Learning. 
 
 <span style="color:red">I am looking for a Ph.D. position starting in 2026 Fall. Please feel free to reach out!</span>  
@@ -64,4 +62,3 @@ problem.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.01 - Now*, [CUHK MMLab](https://mmlab.ie.cuhk.edu.hk/people.html), Hong Kong.
