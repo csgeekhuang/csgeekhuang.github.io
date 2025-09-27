@@ -21,9 +21,6 @@ I am an undergraduate student of [School of Intelligence Science and Technology,
 
 My research interest includes Computer Vision and Multimodal Learning. 
 
-<span style="color:red">I am looking for a Ph.D. position starting in 2026 Fall. Please feel free to reach out!</span>  
-Email: xuhonghuang@smail.nju.edu.cn
-
 
 
 # 🔥 News
