@@ -19,7 +19,9 @@ redirect_from:
 
 I am an undergraduate student of [School of Intelligence Science and Technology, Nanjing University](https://is.nju.edu.cn/) where I have the privilege of conducting research under the supervision of [Prof. Kai Zhang](https://cszn.github.io/).
 
-My research interest includes Computer Vision and Multimodal Learning. 
+Now, I am a research intern in [XLANG Lab](https://xlang.ai/) supervised by Prof. [Tao Yu](https://taoyds.github.io/).
+
+My research interest includes Multimodal Learning. 
 
 
 
@@ -47,7 +49,8 @@ problem.
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
-- *2024.10* National Scholarship.
+- *2025.10* Yanbao Scholarship (Top1).
+- *2024.10* National Scholarship (Top5).
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📖 Educations
@@ -59,3 +62,4 @@ problem.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+- *2024.09 - Now*, [XLANG](https://xlang.ai/), HongKong
