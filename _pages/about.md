@@ -19,7 +19,7 @@ redirect_from:
 
 I am an undergraduate student of [School of Intelligence Science and Technology, Nanjing University](https://is.nju.edu.cn/) where I have the privilege of conducting research under the supervision of [Prof. Kai Zhang](https://cszn.github.io/).
 
-Now, I am a research intern in [XLANG Lab](https://xlang.ai/) supervised by Prof. [Tao Yu](https://taoyds.github.io/).
+Now, I am a Research Assistant in [XLANG Lab](https://xlang.ai/) supervised by Prof. [Tao Yu](https://taoyds.github.io/) and focus mainly on VLA (Vision-Language Action).
 
 My research interest includes Multimodal Learning. 
 
@@ -62,4 +62,4 @@ problem.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2024.09 - Now*, [XLANG](https://xlang.ai/), HongKong
+- *2024.09 - Now*, [XLANG](https://xlang.ai/), Hong Kong
