@@ -49,6 +49,7 @@ problem.
 <!-- - [Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet](https://github.com), A, B, C, **CVPR 2020** -->
 
 # 🎖 Honors and Awards
+- *2025.12* Dongliang Scholarship (Nanjing University, Undergraduate); awarded to only 13 students university-wide.
 - *2025.10* Yanbao Scholarship (Top1).
 - *2024.10* National Scholarship (Top5).
 <!-- - *2021.09* Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
