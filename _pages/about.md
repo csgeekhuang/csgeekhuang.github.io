@@ -19,7 +19,9 @@ redirect_from:
 
 I am an undergraduate student of [School of Intelligence Science and Technology, Nanjing University](https://is.nju.edu.cn/) where I have the privilege of conducting research under the supervision of [Prof. Kai Zhang](https://cszn.github.io/).
 
-Now, I am a Research Assistant in [XLANG Lab](https://xlang.ai/) supervised by Prof. [Tao Yu](https://taoyds.github.io/) and focus mainly on VLA (Vision-Language Action).
+Previously, I am a Research Assistant in [XLANG Lab](https://xlang.ai/) supervised by Prof. [Tao Yu](https://taoyds.github.io/) and focus mainly on VLA (Vision-Language Action).
+
+Now, I am a Research Intern in [Alibaba Qwen](https://qwen.ai/) mentored by [Xiong-Hui Chen](https://xionghuichen.github.io/), [Shuai Bai](https://scholar.google.com/citations?user=ylhI1JsAAAAJ&hl=zh-CN) and [Junyang Lin](https://justinlin610.github.io/) and focus on VLA too!
 
 My research interest includes Multimodal Learning. 
 
@@ -63,4 +65,5 @@ problem.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
-- *2025.09 - Now*, [XLANG](https://xlang.ai/), Hong Kong
+- *2025.09 - 2025.1*, [XLANG](https://xlang.ai/), Hong Kong, China
+- *2026.01 - now*, [Qwen](https://qwen.ai/), Beijing, China
