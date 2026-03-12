@@ -21,7 +21,7 @@ I am an undergraduate student of [School of Intelligence Science and Technology,
 
 Previously, I am a Research Assistant in [XLANG Lab](https://xlang.ai/) supervised by Prof. [Tao Yu](https://taoyds.github.io/) and focus mainly on VLA (Vision-Language Action).
 
-Now, I am a Research Intern in [Qwen](https://qwen.ai/), and also focus on the VLA!
+Now, I am a Research Intern in [Qwen](https://qwen.ai/) supervised by [Shuai Bai](https://scholar.google.com/citations?user=ylhI1JsAAAAJ&hl=zh-CN), and also focus on the VLA!
 
 My research interest includes Multimodal Learning. 
 
