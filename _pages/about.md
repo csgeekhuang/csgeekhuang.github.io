@@ -66,5 +66,6 @@ problem.
 - *2021.03*, Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  \| [\[video\]](https://github.com/) -->
 
 # 💻 Internships
+- *2025.01 - 2025.9*, [CUHK MMLab](https://mmlab.ie.cuhk.edu.hk/index_cn.html), Hong Kong, China
 - *2025.09 - 2026.1*, [XLANG](https://xlang.ai/), Hong Kong, China
 - *2026.01 - now*, [Qwen](https://qwen.ai/), Beijing, China
