@@ -29,10 +29,23 @@ Feel free to reach out to me if you are interested.
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies is released on arXiv.
 - *2025.06*: &nbsp;🎉🎉 Reverse Convolution and Its application to Image Restoration is accepted by ICCV2025.
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/finevla_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies](https://arxiv.org/pdf/2605.27284)
+
+Xintong Hu<sup>\*</sup>, Xuhong Huang<sup>\*</sup>, Jinyu Zhang, Yutong Yao, Yuchong Sun, Qiuyue Wang, Mingsheng Li, Sicheng Xie, Yitao Liu, Junhao Chen, Yixuan Chen, Yingming Zheng, Shuai Bai, Tao Yu<sup>†</sup>
+
+[**Project**](https://finevla.xlang.ai/)
+- We introduce FineVLA, an open framework for action-aligned fine-grained VLA supervision, including a data construction tool, a held-out benchmark, a robotics-specialized VLM annotator, and a steerable VLA policy trained with controlled mixtures of fine-grained and raw goal-level instructions.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">ICCV 2025</div><img src='images/1751533534899.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
