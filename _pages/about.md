@@ -52,7 +52,7 @@ Xintong Hu<sup>*</sup>, **Xuhong Huang<sup>*</sup>**, Jinyu Zhang, Yutong Yao, Y
 
 [Reverse Convolution and Its application to Image Restoration](https://arxiv.org/pdf/2508.09824)
 
-Xuhong Huang<sup>*</sup>, Shiqi Liu<sup>*</sup>, Kai Zhang<sup>†</sup>, Ying Tai, Jian Yang, Hui Zeng, Lei Zhang
+**Xuhong Huang<sup>*</sup>**, Shiqi Liu<sup>*</sup>, Kai Zhang<sup>†</sup>, Ying Tai, Jian Yang, Hui Zeng, Lei Zhang (<sup>*</sup>Equal Contribution, <sup>†</sup>Corresponding Author)
 
 [**Project**](https://github.com/cszn/ConverseNet) <strong><span class='show_paper_citations' data='m0jbWYYAAAAJ:ALROH1vI_8AC'></span></strong>
 - We propose a novel depthwise
