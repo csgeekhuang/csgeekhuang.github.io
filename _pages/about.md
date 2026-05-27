@@ -40,7 +40,7 @@ Feel free to reach out to me if you are interested.
 
 [FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies](https://arxiv.org/pdf/2605.27284)
 
-Xintong Hu<sup>\*</sup>, Xuhong Huang<sup>\*</sup>, Jinyu Zhang, Yutong Yao, Yuchong Sun, Qiuyue Wang, Mingsheng Li, Sicheng Xie, Yitao Liu, Junhao Chen, Yixuan Chen, Yingming Zheng, Shuai Bai, Tao Yu<sup>†</sup>
+Xintong Hu<sup>*</sup>, **Xuhong Huang<sup>*</sup>**, Jinyu Zhang, Yutong Yao, Yuchong Sun, Qiuyue Wang, Mingsheng Li, Sicheng Xie, Yitao Liu, Junhao Chen, Yixuan Chen, Yingming Zheng, Shuai Bai, Tao Yu<sup>†</sup> (<sup>*</sup>Equal Contribution, <sup>†</sup>Corresponding Author)
 
 [**Project**](https://finevla.xlang.ai/)
 - We introduce FineVLA, an open framework for action-aligned fine-grained VLA supervision, including a data construction tool, a held-out benchmark, a robotics-specialized VLM annotator, and a steerable VLA policy trained with controlled mixtures of fine-grained and raw goal-level instructions.
