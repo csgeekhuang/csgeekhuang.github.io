@@ -29,11 +29,23 @@ Feel free to reach out to me if you are interested.
 
 
 # 🔥 News
+- *2026.05*: &nbsp;🎉🎉 Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments is released on arXiv. I am a core contributor responsible for data processing and real-robot deployment.
 - *2026.05*: &nbsp;🎉🎉 FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies is released on arXiv.
 - *2025.06*: &nbsp;🎉🎉 Reverse Convolution and Its application to Image Restoration is accepted by ICCV2025.
 <!-- - *2022.02*: &nbsp;🎉🎉 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Vivamus ornare aliquet ipsum, ac tempus justo dapibus sit amet.  -->
 
 # 📝 Publications 
+
+<div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/qwenvla_overview.png' alt="sym" width="100%"></div></div>
+<div class='paper-box-text' markdown="1">
+
+[Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments](https://arxiv.org/pdf/2605.30280)
+
+Qiuyue Wang, Mingsheng Li, Jian Guan, Jinhui Ye, Sicheng Xie, Yitao Liu, Junhao Chen, Zhixuan Liang, Jie Zhang, Xintong Hu, **Xuhong Huang (Core Contributor)**, Pei Lin, Junyang Lin, Dayiheng Liu, Shuai Bai, Jingren Zhou, Jiazhao Zhang, Haoqi Yuan, Gengze Zhou, Hang Yin, Ye Wang, Yiyang Huang, Zixing Lei, Wujian Peng, Delin Chen, Yingming Zheng, Jingyang Fan, Xianwei Zhuang, Xin Zhou, Haoyang Li, Anzhe Chen, Tong Zhang, Xuejing Liu, Yuchong Sun, Ruizhe Chen, Zhaohai Li, Chenxu Lü, Zhibo Yang, Tao Yu, Xionghui Chen
+
+- I am a core contributor of this project, primarily responsible for **data processing** and **real-robot deployment**. Qwen-VLA is a unified embodied foundation model that extends Qwen's vision-language modeling to continuous action and trajectory generation, achieving strong multi-task performance across manipulation, navigation, and trajectory prediction benchmarks.
+</div>
+</div>
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">arXiv 2026</div><img src='images/finevla_overview.png' alt="sym" width="100%"></div></div>
 <div class='paper-box-text' markdown="1">
