@@ -19,7 +19,7 @@ redirect_from:
 
 I am an undergraduate student of [School of Intelligence Science and Technology, Nanjing University](https://is.nju.edu.cn/) where I have the privilege of conducting research under the supervision of [Prof. Kai Zhang](https://cszn.github.io/).
 
-Previously, I am a Research Assistant in [XLANG Lab](https://xlang.ai/) supervised by Prof. [Tao Yu](https://taoyds.github.io/) and focus mainly on VLA (Vision-Language Action).
+Previously, I am an incoming PhD student in [XLANG Lab](https://xlang.ai/) supervised by Prof. [Tao Yu](https://taoyds.github.io/) and focus mainly on VLA (Vision-Language Action).
 
 Now, I am a Research Intern in [Qwen](https://qwen.ai/) supervised by [Shuai Bai](https://scholar.google.com/citations?user=ylhI1JsAAAAJ&hl=zh-CN), and also focus on the VLA!
 
@@ -41,9 +41,9 @@ Feel free to reach out to me if you are interested.
 
 [Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments](https://arxiv.org/pdf/2605.30280)
 
-Qiuyue Wang, Mingsheng Li, Jian Guan, Jinhui Ye, Sicheng Xie, Yitao Liu, Junhao Chen, Zhixuan Liang, Jie Zhang, Xintong Hu, **Xuhong Huang (Core Contributor)**, Pei Lin, Junyang Lin, Dayiheng Liu, Shuai Bai, Jingren Zhou, Jiazhao Zhang, Haoqi Yuan, Gengze Zhou, Hang Yin, Ye Wang, Yiyang Huang, Zixing Lei, Wujian Peng, Delin Chen, Yingming Zheng, Jingyang Fan, Xianwei Zhuang, Xin Zhou, Haoyang Li, Anzhe Chen, Tong Zhang, Xuejing Liu, Yuchong Sun, Ruizhe Chen, Zhaohai Li, Chenxu Lü, Zhibo Yang, Tao Yu, Xionghui Chen
+Qwen-VLA Team (**Xuhong Huang** is a core contributor, responsible for data processing and real-robot deployment)
 
-- I am a core contributor of this project, primarily responsible for **data processing** and **real-robot deployment**. Qwen-VLA is a unified embodied foundation model that extends Qwen's vision-language modeling to continuous action and trajectory generation, achieving strong multi-task performance across manipulation, navigation, and trajectory prediction benchmarks.
+- Qwen-VLA is a unified embodied foundation model that extends Qwen's vision-language modeling to continuous action and trajectory generation, achieving strong multi-task performance across manipulation, navigation, and trajectory prediction benchmarks.
 </div>
 </div>
 
