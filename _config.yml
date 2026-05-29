@@ -7,7 +7,7 @@
 
 # Site Settings
 title                    : "Xuhong Huang"
-description              : "Undergraduate Student Major in AI and CV. "
+description              : "Incoming PhD Student at XLANG Lab. Research on Spatial Intelligence and Multimodal Learning."
 repository               : "csgeekhuang/csgeekhuang.github.io"
 google_scholar_stats_use_cdn : true
 
@@ -37,7 +37,7 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : # e.g., "github username"
+  github           : "csgeekhuang"
   google_plus      :
   keybase          :
   instagram        :
