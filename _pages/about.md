@@ -17,7 +17,7 @@ redirect_from:
 
 <span class='anchor' id='about-me'></span>
 
-I am an undergraduate student at [Nanjing University](https://is.nju.edu.cn/), advised by [Prof. Kai Zhang](https://cszn.github.io/). Currently, I am a Research Intern at [Qwen](https://qwen.ai/), working on VLA. I will join [XLANG Lab](https://xlang.ai/) as a PhD student, advised by Prof. [Tao Yu](https://taoyds.github.io/).
+I am an undergraduate student at [Nanjing University](https://is.nju.edu.cn/), advised by [Prof. Kai Zhang](https://cszn.github.io/). Currently, I am a Research Intern at [Qwen](https://qwen.ai/), supervised by [Shuai Bai](https://scholar.google.com/citations?user=ylhI1JsAAAAJ&hl=zh-CN), working on VLA. I will join [XLANG Lab](https://xlang.ai/) as a PhD student, advised by Prof. [Tao Yu](https://taoyds.github.io/).
 
 My research interests include Spatial Intelligence (VLA, World Action Model, Embodied Agent) and Multimodal Learning.
 
