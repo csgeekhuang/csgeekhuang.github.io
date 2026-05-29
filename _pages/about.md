@@ -19,7 +19,7 @@ redirect_from:
 
 I am an undergraduate student of [School of Intelligence Science and Technology, Nanjing University](https://is.nju.edu.cn/) where I have the privilege of conducting research under the supervision of [Prof. Kai Zhang](https://cszn.github.io/).
 
-I will join [XLANG Lab](https://xlang.ai/) as a PhD student, supervised by Prof. [Tao Yu](https://taoyds.github.io/), focusing on VLA (Vision-Language-Action).
+I will join [XLANG Lab](https://xlang.ai/) as a PhD student, supervised by Prof. [Tao Yu](https://taoyds.github.io/), focusing on Spatial Intelligence, including VLA, World Action Model, and Embodied Agent.
 
 Now, I am a Research Intern in [Qwen](https://qwen.ai/) supervised by [Shuai Bai](https://scholar.google.com/citations?user=ylhI1JsAAAAJ&hl=zh-CN), and also focus on the VLA!
 
