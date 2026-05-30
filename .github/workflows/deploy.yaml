@@ -25,9 +25,9 @@ jobs:
         with:
           python-version: '3.11'
       - name: Install dependencies
-        run: pip install -r requirements.txt
+        run: pip install .
       - name: Build static site
-        run: python freeze.py
+        run: python sitebuilder.py build
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v3
         with:
