@@ -1,5 +1,5 @@
 {
-    "arXiv 2026": [
+    "Technical Report": [
         {
             "title": "Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments",
             "authors": [
@@ -8,7 +8,9 @@
             "note": "<u>Xuhong Huang</u> is a core contributor, responsible for data processing, real-world benchmark design, and real-robot deployment.",
             "year": 2026,
             "paper": "https://arxiv.org/abs/2605.30280"
-        },
+        }
+    ],
+    "arXiv 2026": [
         {
             "title": "FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies",
             "authors": [
@@ -27,6 +29,7 @@
                 {"name": "Shuai Bai"},
                 {"name": "Tao Yu", "site": "https://taoyds.github.io/"}
             ],
+            "note": "* Equal Contribution",
             "year": 2026,
             "paper": "https://arxiv.org/abs/2605.27284",
             "site": "https://finevla.xlang.ai/"
@@ -44,6 +47,7 @@
                 {"name": "Hui Zeng"},
                 {"name": "Lei Zhang"}
             ],
+            "note": "* Equal Contribution",
             "year": 2025,
             "venue": "ICCV 2025",
             "paper": "https://arxiv.org/abs/2508.09824",
