@@ -1,0 +1,29 @@
+{% extends "base.html" %}
+
+{% block content %}
+<br>
+<div style="margin:0 auto;width:80%;text-align:center;">
+  <h4>{{ review.title }}</h4>
+  <div>
+    {% if review.authors %}
+    <p>{{ review.authors }}</p>
+    {% endif %}
+    <p>{{ review.time }} &bull;
+      <a href="{{ review.link }}">
+        <i class="fa fa-file fa-sm"></i>
+      </a>
+    </p>
+    <p>
+      {% for page_tag in review.tags %}
+      <div class="block">
+        <b><a href="{{ url_for('paper_tag', tag=page_tag) }}">{{ page_tag }}</a></b>
+      </div>
+      {% endfor %}
+    </p>
+  </div>
+</div>
+
+<div class="blog">
+  {{review.html|safe}}
+</div>
+{% endblock content %}

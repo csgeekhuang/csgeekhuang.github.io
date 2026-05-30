@@ -1,0 +1,17 @@
+{% extends "base.html" %}
+
+{% block content %}
+
+  {% for group in news %}
+  <b style="color:#a9a9a9">{{ group }}</b>
+  <hr class="section" />
+  {% for item in news[group] %}
+    <div style="padding-bottom:0.4em;">
+      <b>{{ item.title | safe }}</b><br>
+      <span class="subtext">{{ item.date }}</span>
+    </div>
+  {% endfor %}
+  <br>
+  {% endfor %}
+
+{% endblock content %}

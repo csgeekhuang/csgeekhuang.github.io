@@ -1,3 +1,9 @@
-_site/
-push.sh
+build/
+__pycache__/
+*.pyc
+.venv/
 .DS_Store
+push.sh
+image.png
+push_api.py
+截屏*

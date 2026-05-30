@@ -1,0 +1,32 @@
+{% extends "base.html" %}
+
+{% block content %}
+  <div style="display:flex; flex-wrap:wrap; align-items: flex-start;">
+    <img src="{{ url_for('static', filename='profpic.png') }}" style="border-radius: 10%;height: 7em;width: auto;margin: 0 2em 0 0" />
+    <div style="flex: 1; align-self: center;">
+      <h4>I'm Xuhong.</h4>
+      Incoming PhD student @ <a href="https://xlang.ai/">XLANG Lab</a>, advised by Prof. <a href="https://taoyds.github.io/">Tao Yu</a>.
+    </div>
+    <div style="margin-top: 1em">
+      <p style="margin: 0.75rem 0;">
+        I am an undergraduate student at <a href="https://is.nju.edu.cn/">Nanjing University</a>,
+        advised by <a href="https://cszn.github.io/">Prof. Kai Zhang</a>.
+        Currently, I am a Research Intern at <a href="https://qwen.ai/">Qwen</a>,
+        supervised by <a href="https://scholar.google.com/citations?user=ylhI1JsAAAAJ&hl=zh-CN">Shuai Bai</a>,
+        working on VLA (Vision-Language-Action).
+      </p>
+      <p style="margin: 0.75rem 0;">
+        I am a core contributor to <a href="https://arxiv.org/abs/2605.30280">Qwen-VLA</a>
+        and co-first author of <a href="https://arxiv.org/abs/2605.27284">FineVLA</a>.
+      </p>
+      <p style="margin: 0.75rem 0;">
+        My research interests include Spatial Intelligence (VLA, World Action Model, Embodied Agent)
+        and Multimodal Learning.
+      </p>
+      <p style="margin: 0.75rem 0;">
+        Feel free to reach out via <a href="mailto:csxuhonghuang@gmail.com">email</a>
+        or <a href="https://github.com/csgeekhuang">GitHub</a>.
+      </p>
+    </div>
+  </div>
+{% endblock content %}

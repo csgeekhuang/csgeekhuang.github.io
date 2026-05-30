@@ -1,0 +1,50 @@
+{
+    "News": [
+        {
+            "title": "Qwen-VLA is released on arXiv. I am a core contributor.",
+            "date": "2026-05"
+        },
+        {
+            "title": "FineVLA is released on arXiv.",
+            "date": "2026-05"
+        },
+        {
+            "title": "Reverse Convolution and Its Application to Image Restoration is accepted by ICCV 2025.",
+            "date": "2025-06"
+        }
+    ],
+    "Honors": [
+        {
+            "title": "Nanjing University Top-Grade Scholarship, the highest honor in the university, awarded to only 13 students university-wide.",
+            "date": "2025-12"
+        },
+        {
+            "title": "Yanbao Scholarship (Top1).",
+            "date": "2025-10"
+        },
+        {
+            "title": "National Scholarship (Top5).",
+            "date": "2024-10"
+        }
+    ],
+    "Education": [
+        {
+            "title": "B.S., Nanjing University, School of Intelligence Science and Technology.",
+            "date": "2022.09 - Now"
+        }
+    ],
+    "Internships": [
+        {
+            "title": "<a href='https://qwen.ai/'>Qwen</a>, Beijing, China",
+            "date": "2026.01 - Now"
+        },
+        {
+            "title": "<a href='https://xlang.ai/'>XLANG</a>, Hong Kong, China",
+            "date": "2025.09 - 2026.01"
+        },
+        {
+            "title": "<a href='https://mmlab.ie.cuhk.edu.hk/index_cn.html'>CUHK MMLab</a>, Hong Kong, China",
+            "date": "2025.01 - 2025.09"
+        }
+    ]
+}

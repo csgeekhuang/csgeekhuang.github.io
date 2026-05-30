@@ -1,0 +1,53 @@
+{
+    "arXiv 2026": [
+        {
+            "title": "Qwen-VLA: Unifying Vision-Language-Action Modeling across Tasks, Environments, and Robot Embodiments",
+            "authors": [
+                {"name": "Qwen-VLA Team"}
+            ],
+            "note": "<u>Xuhong Huang</u> is a core contributor, responsible for data processing, real-world benchmark design, and real-robot deployment.",
+            "year": 2026,
+            "paper": "https://arxiv.org/abs/2605.30280"
+        },
+        {
+            "title": "FineVLA: Fine-Grained Instruction Alignment for Steerable Vision-Language-Action Policies",
+            "authors": [
+                {"name": "Xintong Hu*"},
+                {"name": "Xuhong Huang*"},
+                {"name": "Jinyu Zhang"},
+                {"name": "Yutong Yao"},
+                {"name": "Yuchong Sun"},
+                {"name": "Qiuyue Wang"},
+                {"name": "Mingsheng Li"},
+                {"name": "Sicheng Xie"},
+                {"name": "Yitao Liu"},
+                {"name": "Junhao Chen"},
+                {"name": "Yixuan Chen"},
+                {"name": "Yingming Zheng"},
+                {"name": "Shuai Bai"},
+                {"name": "Tao Yu", "site": "https://taoyds.github.io/"}
+            ],
+            "year": 2026,
+            "paper": "https://arxiv.org/abs/2605.27284",
+            "site": "https://finevla.xlang.ai/"
+        }
+    ],
+    "ICCV 2025": [
+        {
+            "title": "Reverse Convolution and Its Application to Image Restoration",
+            "authors": [
+                {"name": "Xuhong Huang*"},
+                {"name": "Shiqi Liu*"},
+                {"name": "Kai Zhang", "site": "https://cszn.github.io/"},
+                {"name": "Ying Tai"},
+                {"name": "Jian Yang"},
+                {"name": "Hui Zeng"},
+                {"name": "Lei Zhang"}
+            ],
+            "year": 2025,
+            "venue": "ICCV 2025",
+            "paper": "https://arxiv.org/abs/2508.09824",
+            "code": "cszn/ConverseNet"
+        }
+    ]
+}

@@ -1,0 +1,81 @@
+{% extends "base.html" %} {% block content %}
+{% for group in pubs %}
+<b style="color:#a9a9a9">{{ group }}</b>
+<hr class="section" />
+{% for pub in pubs[group] %}
+<div class="publication">
+  <b>{{ pub.title }}</b>
+  <br />
+  <span style="opacity: 0.6;">
+    {% for author in pub.authors %}
+      {% if author.site %}
+        <a href="{{ author.site }}">{{ author.name }}</a>{% if not loop.last %},{% endif %}
+      {% elif "Xuhong Huang" in author.name %}
+        <u>{{ author.name }}</u>{% if not loop.last %},{% endif %}
+      {% else %}
+        {{ author.name }}{% if not loop.last %},{% endif %}
+      {% endif %}
+    {% endfor %}
+  </span>
+  {% if pub.note %}
+  <br /><span style="opacity: 0.6;">{{ pub.note | safe }}</span>
+  {% endif %}
+  <br />
+    {% if pub.venue_link and pub.venue %}
+    &bull;
+    <a href="{{ pub.venue_link }}">
+      {{ pub.workshop }}
+    </a> @ {{ pub.venue }}
+    {% elif pub.venue %}
+    &bull; {{ pub.venue }}
+    {% endif %}
+    {% if pub.award %}
+    &bull; <span style="color:red;">{{ pub.award }}</span>
+    {% endif %}
+  </span>
+  <br />
+  <span style="display: flex; align-items: center; gap: 0.25em;">
+    {% if not pub.paper and not pub.code and not pub.site and not pub.video %}
+    <i>Paper details coming soon</i>
+    {% endif %}
+    {% if pub.code %}
+    <a style="margin-top: 0.5em" href="http://github.com/{{ pub.code }}">
+      <img alt="GitHub Repo stars" src="https://img.shields.io/github/stars/{{ pub.code }}?label=" />
+    </a>
+    {% endif %}
+    {% if pub.blog %}
+    <a href="{{ pub.blog if pub.blog.startswith('http') else '/' ~ pub.blog.lstrip('/') }}">
+      <button>Blog</button>
+    </a>
+    {% endif %}
+    {% if pub.paper %}
+    <a href="{{ pub.paper }}">
+      <button>PDF</button>
+    </a>
+    {% endif %}
+    {% if pub.poster %}
+    <a href="{{ '/' ~ pub.poster.lstrip('/') }}">
+      <button>Poster</button>
+    </a>
+    {% endif %}
+    {% if pub.site %}
+    <a href="{{ pub.site }}">
+      <button>Site</button>
+    </a>
+    {% endif %}
+    {% if pub.talk %}
+    <a href="{{ pub.talk }}">
+      <button>Talk</button>
+    </a>
+    {% endif %}
+    {% if pub.tweet %}
+    <a href="{{ pub.tweet }}">
+      <button>Tweet</button>
+    </a>
+    {% endif %}
+  </span>
+</div>
+{% endfor %}
+<div style="height: 0.5em"></div>
+{% endfor %}
+{% endblock content %}
