@@ -1,6 +1,10 @@
 {
     "News": [
         {
+            "title": "FineVLA is accepted by NeurIPS 2026. Thanks to all the collaborators!",
+            "date": "2026-09"
+        },
+        {
             "title": "Qwen-VLA is released on arXiv. I am a core contributor.",
             "date": "2026-05"
         },
